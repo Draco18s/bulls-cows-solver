@@ -3,7 +3,7 @@ Bulls and Cows Solver
 
 Get all the possible answers for Bulls and Cows game, based on the history of guesses in one round.
 
-Web based example can be launched from [https://draco18s.github.io/bulls-cows-solver/index.html](https://frank-deng.github.io/bulls-cows-solver/index.html).
+Web based example can be launched from [https://draco18s.github.io/bulls-cows-solver/index.html](https://draco18s.github.io/bulls-cows-solver/index.html).
 
 Usage
 -----
