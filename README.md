@@ -1,9 +1,9 @@
-Bulls and Cows Solver
+Tachyon Manual Solver
 =====================
 
-Get all the possible answers for Bulls and Cows game, based on the history of guesses in one round.
+Get all the possible answers for the Tachyon hacking minigame, based on the history of guesses in one round.
 
-Web based example can be launched from [https://draco18s.github.io/bulls-cows-solver/](https://draco18s.github.io/bulls-cows-solver/).
+Web based example can be launched from [https://draco18s.github.io/tachyon-manual-solver/](https://draco18s.github.io/tachyon-manual-solver/).
 
 Usage
 -----
